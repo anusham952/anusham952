@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anusham952
 - 👀 I’m interested in learning new things and exploring.
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on working togther.
-- 📫 How to reach me on Github:anusham952, Instagram: _aanusham_gowda_
+- 📫 How to reach me on Github:anusham952, Instagram: anunotebook
 
 <!---
 anusham952/anusham952 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
