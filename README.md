@@ -1,6 +1,8 @@
 # 👩‍💻 Anusha M | QA Engineer | Manual + Automation (Playwright)
 
-I’m Anusha, a QA Engineer with 2.6+ years of experience in testing Android TV and Web applications. I have strong expertise in manual testing, and I’m actively upskilling in UI and API automation using **Playwright with JavaScript**.
+![Profile views](https://komarev.com/ghpvc/?username=anusham952&label=Profile%20views&color=0e75b6&style=flat)
+
+I’m Anusha, a QA Engineer with 3+ years of experience in testing Android TV and Web applications. I have strong expertise in manual testing, and I’m actively upskilling in UI and API automation using **Playwright with JavaScript**.
 
 I’m passionate about ensuring high-quality, bug-free user experiences and continuously improving test efficiency through automation.
 
@@ -40,6 +42,7 @@ I’m passionate about ensuring high-quality, bug-free user experiences and cont
 ---
 
 # 🚀 Playwright API Automation Framework
+(https://github.com/anusham952/playwright-api-automation)
 
 This repository contains a **Playwright-based API Automation Testing Project** built using **JavaScript**.  
 The project focuses on validating **REST APIs** with automated tests, reusable utilities, and CI integration.
@@ -71,4 +74,3 @@ This is a **personal learning + practice project** created to gain hands-on expe
 
 💬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anusha-m952)
 
-Let's build better, bug-free software together!
